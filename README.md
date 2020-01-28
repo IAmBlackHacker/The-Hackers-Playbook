@@ -12,3 +12,6 @@ https://www2.fireeye.com/rs/848-DID-242/images/rpt-apt29-hammertoss.pdf
 
 ## PenTest Scripts
 https://github.com/trustedsec?tab=repositories
+
+## Agile infrastructure
+https://github.com/Coalfire-Research/Red-Baron
