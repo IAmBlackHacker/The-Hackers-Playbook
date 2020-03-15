@@ -46,3 +46,18 @@ VPS - Virtual private servers
 ### [Domain Fronting](https://github.com/IAmBlackHacker/The-Hackers-Playbook/tree/master/Domain%20Fronting)
 
 ### [dnscat2](https://github.com/IAmBlackHacker/The-Hackers-Playbook/tree/master/Dnscat2)
+
+### Pupy Shell
+```
+Pupy is a cross-platform, multi function RAT and post-exploitation tool mainly written in python. It features an all-in-memory execution guideline and leaves a very low footprint. 
+Pupy can communicate using multiple transports, migrate into processes using reflective injection, and load remote python code, python packages and python C-extensions from memory.
+```
+* https://github.com/n1nj4sec/pupy
+
+### Merlin 
+```
+Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.
+```
+* https://github.com/Ne0nd0g/merlin
+
+# Before The Snap
