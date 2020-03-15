@@ -18,7 +18,7 @@ VPS - Virtual private servers
 * [Digital Ocean Droplets](https://www.digitalocean.com/products/)
 * [AWS Lightsail](https://aws.amazon.com/lightsail/)
 
-:github: [TrustedSec PTF](../TrustedSec%20PTF)
+:git: [TrustedSec PTF](tree/master/TrustedSec%20PTF)
 
 ### Penetration Testing Execution Standards
 * http://www.pentest-standard.org/
