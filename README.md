@@ -11,11 +11,10 @@ Based on reading from The Hackers Playbook 3
 * https://www2.fireeye.com/rs/848-DID-242/images/rpt-apt29-hammertoss.pdf
 
 # [The Setup](https://github.com/IAmBlackHacker/The-Hackers-Playbook/blob/master/setup.md)
-[link](https://github.com/IAmBlackHacker/The-Hackers-Playbook/blob/master/setup.md)
 ```
 Setting up your hacking environment
 ```
 # [Before The Snap](https://github.com/IAmBlackHacker/The-Hackers-Playbook/blob/master/beforeTheSnap.md)
-[link](https://github.com/IAmBlackHacker/The-Hackers-Playbook/blob/master/beforeTheSnap.md)
 ```
+
 ```
